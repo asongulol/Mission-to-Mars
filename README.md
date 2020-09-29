@@ -11,11 +11,11 @@ Two html files were used:
 Here is the view of the home page:
 
 
-![](/MtoM_Home_Page_Image.png)
+![](\MtoM_Home_Page_Image.png)
 
 
 Here is the view of the hemispheres in HD.
 
 
-![](/MtoM_ Hemispheres_in_Hi_Def.png)
+![](\MtoM_ Hemispheres_in_Hi_Def.png)
 
