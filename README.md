@@ -10,8 +10,8 @@ Two html files were used:
 
 Here is the view of the home page:
 
-<img src="Images/home.png">
+<img src="Images/home.PNG">
 
 Here is the view of the hemispheres in HD.
 
-<img src="Images/hemispheres.png">
+<img src="Images/hemispheres.PNG">
