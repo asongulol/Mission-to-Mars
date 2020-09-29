@@ -17,5 +17,5 @@ Here is the view of the home page:
 Here is the view of the hemispheres in HD.
 
 
-![](\MtoM_ Hemispheres_in_Hi_Def.png)
+![](MtoM_ Hemispheres_in_Hi_Def.png)
 
